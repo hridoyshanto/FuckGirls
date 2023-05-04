@@ -8,7 +8,7 @@ from email.mime.base import MIMEBase
 from email.mime.text import MIMEText
 from email.utils import COMMASPACE, formatdate
 from email import encoders
-#from g4rzk.module import *
+from g4rzk.module import
 from bs4 import BeautifulSoup as bs
 from os import system as cmd
 from os import listdir as lst
